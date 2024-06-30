@@ -26,7 +26,7 @@ A java micro services repositories analyzer made as an internship project for a 
 Este proyecto fue entregado al Ing. Ariel Martínez Roque (TecNM/CENIDET) para continuar con su desarrollo, por lo que esta versión no representa una versión final.
 
 
-This project was delivered to Ing. Ariel Martínez Roque (TecNM/CENIDET) for its development support, so this version does not represent a final version.
+This project was delivered to Ing. Ariel Martínez Roque (TecNM/CENIDET) for his development support, so this version does not represent a final version.
 
 ## Autor / Author
 - Ricardo Bárcenas Dirzo ([@ricchan1](https://github.com/ricchan1))
